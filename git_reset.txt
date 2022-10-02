@@ -1,0 +1,3 @@
+// hard reset changes
+
+git reset --hard
