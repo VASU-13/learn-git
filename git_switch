@@ -1,0 +1,2 @@
+// switch to a different or create a new branch
+git switch <branch/new-branch>
