@@ -1,0 +1,3 @@
+// rebasing branch from master
+
+git merge master --rebase
